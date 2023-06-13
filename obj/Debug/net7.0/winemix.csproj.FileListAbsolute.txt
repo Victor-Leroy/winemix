@@ -1,0 +1,15 @@
+/Users/victor/Documents/GitHub/winemix/bin/Debug/net7.0/winemix
+/Users/victor/Documents/GitHub/winemix/bin/Debug/net7.0/winemix.deps.json
+/Users/victor/Documents/GitHub/winemix/bin/Debug/net7.0/winemix.runtimeconfig.json
+/Users/victor/Documents/GitHub/winemix/bin/Debug/net7.0/winemix.dll
+/Users/victor/Documents/GitHub/winemix/bin/Debug/net7.0/winemix.pdb
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.csproj.AssemblyReference.cache
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.AssemblyInfoInputs.cache
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.AssemblyInfo.cs
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.csproj.CoreCompileInputs.cache
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.dll
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/refint/winemix.dll
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.pdb
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/winemix.genruntimeconfig.cache
+/Users/victor/Documents/GitHub/winemix/obj/Debug/net7.0/ref/winemix.dll
